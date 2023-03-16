@@ -1,6 +1,8 @@
 // swift-tools-version: 5.7
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
+//  Copyright © 2021 Codezync (Pvt) Ltd. All rights reserved.
+
 import PackageDescription
 
 let package = Package(
