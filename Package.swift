@@ -5,24 +5,21 @@ import PackageDescription
 
 let package = Package(
     name: "TMDone_iOSClientKit_SDK",
+    platforms: [
+      .iOS(.v14)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "TMDone_iOSClientKit_SDK",
-            targets: ["TMDone_iOSClientKit_SDK"]),
+            targets: ["TMDone_iOSClientKit"]),
     ],
     dependencies: [
-        // Dependencies declare other packages that this package depends on.
-        // .package(url: /* package url */, from: "1.0.0"),
+        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.6.1")),
+        .package(url: "https://github.com/Alamofire/AlamofireImage.git", .upToNextMajor(from: "4.2.0"))
     ],
     targets: [
-        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
-        // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .target(
-            name: "TMDone_iOSClientKit_SDK",
-            dependencies: []),
-        .testTarget(
-            name: "TMDone_iOSClientKit_SDKTests",
-            dependencies: ["TMDone_iOSClientKit_SDK"]),
+        .binaryTarget(
+            name: "TMDone_iOSClientKit",
+            path: "./Sources/TMDone_iOSClientKit.xcframework")
     ]
 )

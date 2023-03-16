@@ -1,0 +1,11 @@
+framework module TMDone_iOSClientKit {
+  umbrella header "TMDone_iOSClientKit.h"
+
+  export *
+  module * { export * }
+}
+
+module TMDone_iOSClientKit.Swift {
+  header "TMDone_iOSClientKit-Swift.h"
+  requires objc
+}
