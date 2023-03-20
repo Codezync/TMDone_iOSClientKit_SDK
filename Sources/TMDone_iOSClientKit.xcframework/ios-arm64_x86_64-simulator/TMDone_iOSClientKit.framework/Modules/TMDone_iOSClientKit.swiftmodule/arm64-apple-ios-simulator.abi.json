@@ -861,910 +861,910 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
       "kind": "IntegerLiteral",
       "offset": 214,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 9,
       "value": "\"primary\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "BooleanLiteral",
       "offset": 729,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "StringLiteral",
       "offset": 2501,
       "length": 9,
       "value": "\"primary\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "BooleanLiteral",
       "offset": 2592,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFNetworkLoggerManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFNetworkLoggerManager.swift",
       "kind": "StringLiteral",
       "offset": 221,
       "length": 24,
       "value": "\"codezync.networklogger\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/Reusable\/StoreListTVCell\/StoreListTVCell.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/Reusable\/StoreListTVCell\/StoreListTVCell.swift",
       "kind": "StringLiteral",
       "offset": 1267,
       "length": 19,
       "value": "\"Default_Menu_Item\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 12,
       "value": "\"2023\/04\/16\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
       "kind": "Dictionary",
       "offset": 1092,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
       "kind": "Dictionary",
       "offset": 1125,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "IntegerLiteral",
       "offset": 199,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "IntegerLiteral",
       "offset": 249,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "FloatLiteral",
       "offset": 409,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"TotalItemCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 11,
       "value": "\"PageCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 12,
       "value": "\"PageNumber\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 490,
       "length": 10,
       "value": "\"PageSize\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 526,
       "length": 7,
       "value": "\"Items\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"TotalItemCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 11,
       "value": "\"PageCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 12,
       "value": "\"PageNumber\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 490,
       "length": 10,
       "value": "\"PageSize\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 526,
       "length": 7,
       "value": "\"Items\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2143,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2168,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2199,
       "length": 10,
       "value": "\"CoverUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2237,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2274,
       "length": 9,
       "value": "\"LogoUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2306,
       "length": 8,
       "value": "\"Rating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2341,
       "length": 12,
       "value": "\"RatedCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2385,
       "length": 17,
       "value": "\"AveragePrepTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2431,
       "length": 14,
       "value": "\"DeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2477,
       "length": 17,
       "value": "\"MaxDeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2521,
       "length": 12,
       "value": "\"Attributes\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2559,
       "length": 11,
       "value": "\"OrderType\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2597,
       "length": 12,
       "value": "\"SectorCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2636,
       "length": 12,
       "value": "\"SectorName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2673,
       "length": 10,
       "value": "\"SectorId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2707,
       "length": 9,
       "value": "\"Contact\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2743,
       "length": 12,
       "value": "\"ArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2789,
       "length": 19,
       "value": "\"ArabicDescription\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2833,
       "length": 10,
       "value": "\"IsOnline\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2870,
       "length": 12,
       "value": "\"IsFeatured\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2910,
       "length": 13,
       "value": "\"IsFavourite\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2951,
       "length": 13,
       "value": "\"DeliveryFee\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2994,
       "length": 15,
       "value": "\"IsAllowPickup\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3030,
       "length": 6,
       "value": "\"Area\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3064,
       "length": 13,
       "value": "\"IsPlusStore\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3100,
       "length": 8,
       "value": "\"AreaId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3135,
       "length": 12,
       "value": "\"IsSchedule\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3179,
       "length": 17,
       "value": "\"MinScheduleTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3224,
       "length": 13,
       "value": "\"EnglishName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3268,
       "length": 16,
       "value": "\"PaymentMethods\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3319,
       "length": 20,
       "value": "\"OperationalDetails\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3369,
       "length": 15,
       "value": "\"IsMarketPlace\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3425,
       "length": 26,
       "value": "\"MarketPlaceMinOrderValue\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3476,
       "length": 10,
       "value": "\"Distance\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3509,
       "length": 8,
       "value": "\"IsBusy\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3544,
       "length": 12,
       "value": "\"IsStoreNew\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3582,
       "length": 11,
       "value": "\"OfferName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3625,
       "length": 17,
       "value": "\"OfferArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3671,
       "length": 14,
       "value": "\"SectorLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3722,
       "length": 22,
       "value": "\"IsAllowScheduleOrder\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3776,
       "length": 17,
       "value": "\"IsDisableCredit\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3825,
       "length": 17,
       "value": "\"IsAllowTracking\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3875,
       "length": 18,
       "value": "\"IsAllowPromoCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3923,
       "length": 15,
       "value": "\"IsAllowRating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3968,
       "length": 10,
       "value": "\"Location\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4006,
       "length": 13,
       "value": "\"StoreLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4058,
       "length": 24,
       "value": "\"IsTargetedOfferApplied\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4117,
       "length": 20,
       "value": "\"TargetedOfferCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4163,
       "length": 11,
       "value": "\"UserOffer\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2143,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2168,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2199,
       "length": 10,
       "value": "\"CoverUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2237,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2274,
       "length": 9,
       "value": "\"LogoUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2306,
       "length": 8,
       "value": "\"Rating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2341,
       "length": 12,
       "value": "\"RatedCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2385,
       "length": 17,
       "value": "\"AveragePrepTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2431,
       "length": 14,
       "value": "\"DeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2477,
       "length": 17,
       "value": "\"MaxDeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2521,
       "length": 12,
       "value": "\"Attributes\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2559,
       "length": 11,
       "value": "\"OrderType\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2597,
       "length": 12,
       "value": "\"SectorCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2636,
       "length": 12,
       "value": "\"SectorName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2673,
       "length": 10,
       "value": "\"SectorId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2707,
       "length": 9,
       "value": "\"Contact\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2743,
       "length": 12,
       "value": "\"ArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2789,
       "length": 19,
       "value": "\"ArabicDescription\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2833,
       "length": 10,
       "value": "\"IsOnline\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2870,
       "length": 12,
       "value": "\"IsFeatured\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2910,
       "length": 13,
       "value": "\"IsFavourite\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2951,
       "length": 13,
       "value": "\"DeliveryFee\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 2994,
       "length": 15,
       "value": "\"IsAllowPickup\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3030,
       "length": 6,
       "value": "\"Area\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3064,
       "length": 13,
       "value": "\"IsPlusStore\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3100,
       "length": 8,
       "value": "\"AreaId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3135,
       "length": 12,
       "value": "\"IsSchedule\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3179,
       "length": 17,
       "value": "\"MinScheduleTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3224,
       "length": 13,
       "value": "\"EnglishName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3268,
       "length": 16,
       "value": "\"PaymentMethods\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3319,
       "length": 20,
       "value": "\"OperationalDetails\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3369,
       "length": 15,
       "value": "\"IsMarketPlace\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3425,
       "length": 26,
       "value": "\"MarketPlaceMinOrderValue\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3476,
       "length": 10,
       "value": "\"Distance\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3509,
       "length": 8,
       "value": "\"IsBusy\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3544,
       "length": 12,
       "value": "\"IsStoreNew\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3582,
       "length": 11,
       "value": "\"OfferName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3625,
       "length": 17,
       "value": "\"OfferArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3671,
       "length": 14,
       "value": "\"SectorLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3722,
       "length": 22,
       "value": "\"IsAllowScheduleOrder\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3776,
       "length": 17,
       "value": "\"IsDisableCredit\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3825,
       "length": 17,
       "value": "\"IsAllowTracking\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3875,
       "length": 18,
       "value": "\"IsAllowPromoCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3923,
       "length": 15,
       "value": "\"IsAllowRating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 3968,
       "length": 10,
       "value": "\"Location\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4006,
       "length": 13,
       "value": "\"StoreLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4058,
       "length": 24,
       "value": "\"IsTargetedOfferApplied\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4117,
       "length": 20,
       "value": "\"TargetedOfferCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4163,
       "length": 11,
       "value": "\"UserOffer\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4329,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4354,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4388,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4329,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4354,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 4388,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "BooleanLiteral",
       "offset": 4535,
       "length": 5,
