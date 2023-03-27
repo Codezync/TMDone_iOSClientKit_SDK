@@ -43,6 +43,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Alamofire",
         "printedName": "Alamofire",
         "declKind": "Import",
@@ -347,6 +357,13 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -406,6 +423,38 @@
               "Override",
               "AccessControl",
               "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidAppear",
+            "printedName": "viewDidAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)viewDidAppear:",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC13viewDidAppearyySbF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewDidAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -679,6 +728,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -936,6 +995,13 @@
       "offset": 1125,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/LoadingManager.swift",
+      "kind": "StringLiteral",
+      "offset": 459,
+      "length": 11,
+      "value": "\"LoadingVC\""
     },
     {
       "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",

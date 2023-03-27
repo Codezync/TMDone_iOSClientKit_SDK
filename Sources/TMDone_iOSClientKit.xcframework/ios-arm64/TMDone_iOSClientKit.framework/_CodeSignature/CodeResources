@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		UuPVCK1wOA8q99Rvs0XnpnmYa6o=
+		05snYf0Ggy3EPLSbVE1PVxnUdtM=
 		</data>
 		<key>Headers/TMDone_iOSClientKit-Swift.h</key>
 		<data>
-		SS+IJoAPAHnIniHGYId/xqviqVk=
+		tnQTSMBl9uVqE1Cr7NbwRgly28A=
 		</data>
 		<key>Headers/TMDone_iOSClientKit.h</key>
 		<data>
@@ -18,27 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GojyS8QvqZ0bi2a1FKnhlZpyLbw=
+		r6cqGnS0F2QA6YntRNSEUFIrcAE=
+		</data>
+		<key>LoadingVC.nib</key>
+		<data>
+		G7yRrp/JZ4ERo4AcdOi5xs+fN0w=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		/bpadst7num9Te5MDkajcoP6UTI=
+		F3jN9XDEPMp+BWNjquFObfReqdQ=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		qLj9NfHVTtbGWXVC3jqJvub7wTM=
+		wEkjOV8CU4w6lmpiL9BeY6JcHvI=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		nspnr0li/Q8LMrfBUf4hjnnGUzA=
+		vHHyQMDOFZmoxrQKlPKBvVl7ovk=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		qLj9NfHVTtbGWXVC3jqJvub7wTM=
+		wEkjOV8CU4w6lmpiL9BeY6JcHvI=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		L3QLvQJMZRy40MglDnMbpJ29j3c=
+		fnb7l+m2Gp1KpK4rPszKEQS4w5k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nq+TVAA79A1lfvpbGUAhh+ZmoKX8SWT02aAyMBkK7rk=
+			exbR+0XYDFrfYlmLF4a+EKJGvsaVrAXIvjA6cnmAlZ4=
 			</data>
 		</dict>
 		<key>Headers/TMDone_iOSClientKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l05CjUNaFaIBvbgp32iqVvBtryrNfNj/XRZOWu+gQlE=
+			yoK8Hx5C7Kka9aicfyjAjPf6I+8EWUjLqKHfGU5YbmM=
 			</data>
 		</dict>
 		<key>Headers/TMDone_iOSClientKit.h</key>
@@ -84,39 +88,46 @@
 			dv/Bfy3lfS76qCMI2uSdPJL62fi05r3CRfi8k1meSwg=
 			</data>
 		</dict>
+		<key>LoadingVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uXi99wCtRuXnr+jObvb5g2KNa+5FR6Wn3Hqg1DXRdUI=
+			</data>
+		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSrtv0fpKMMAEWjoZOJoCX4oOcDvzgJCf9LDsLssaMg=
+			P1+O40wRyyZ+O3ZvVszwUElcXr0181nvuTUd9QGntnA=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpBikauRBINsszuz1YC3QbDoLbEP9M87lPTxAH1g59Q=
+			b05JYViWea6sPW0uBpuPRV1RX/K99dL/a3/QnVYVTew=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h8yhJ4fV0Tqm7yI70zIVnk2yRpwUbRdVvrcPO9p3BgQ=
+			W8ZEO8fvD16N9uuO8IGs7CRuxVWSKhnE90WPfNlfvi4=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpBikauRBINsszuz1YC3QbDoLbEP9M87lPTxAH1g59Q=
+			b05JYViWea6sPW0uBpuPRV1RX/K99dL/a3/QnVYVTew=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HV1/QRWVFW6+qWRQ7HK8ad6mie7wP5ehb3yWDoX9eYo=
+			mQYjfwiJ/ONi1ZK5Lli+52FS9IL+353eP7CKTrcTiSw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
