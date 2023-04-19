@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		05snYf0Ggy3EPLSbVE1PVxnUdtM=
+		FmLAH8rSka0XQkBFVyq6B290YCk=
 		</data>
 		<key>Headers/TMDone_iOSClientKit-Swift.h</key>
 		<data>
-		tnQTSMBl9uVqE1Cr7NbwRgly28A=
+		6raRXnWNfovaqUbmCPDl2Plqo+k=
 		</data>
 		<key>Headers/TMDone_iOSClientKit.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		r6cqGnS0F2QA6YntRNSEUFIrcAE=
+		xIalSpWIAJsrVv+Wvtb+xB84dcE=
 		</data>
 		<key>LoadingVC.nib</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		F3jN9XDEPMp+BWNjquFObfReqdQ=
+		H3mQtMLgTE4qWXsYb8qFzjHV758=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wEkjOV8CU4w6lmpiL9BeY6JcHvI=
+		PnUk1mbM0jFpWEt14GOJoiWAQqo=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wEkjOV8CU4w6lmpiL9BeY6JcHvI=
+		PnUk1mbM0jFpWEt14GOJoiWAQqo=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fnb7l+m2Gp1KpK4rPszKEQS4w5k=
+		FoYSZPUdNAB1U7Wea2H7UjbybxM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,11 +58,23 @@
 		</data>
 		<key>SectorListing.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		RyXj9NzKb/8QOjvXxMK3j3XWgmg=
+		/gevpTdDrDsk8xaAkTeCQwBF8Ss=
 		</data>
 		<key>StoreListTVCell.nib</key>
 		<data>
-		VtdKL6K+/sKsWjwmSlcJlK9SkWg=
+		gIL+x/QQ/oL3QgJR7hXo+tmTRd4=
+		</data>
+		<key>StoreV1.storyboardc/IndividualRestaurantVC.nib</key>
+		<data>
+		VaAu1TfoX5oVPmQ4uuGty2+ZWI0=
+		</data>
+		<key>StoreV1.storyboardc/Info.plist</key>
+		<data>
+		aTEMmaqWfjYWlZtiKzXfq9gJrL4=
+		</data>
+		<key>StoreV1.storyboardc/g7d-bV-Mdj-view-bq8-Pl-LF7.nib</key>
+		<data>
+		g0v8TgnqDVeBVAeYzdUHo5xsSlo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -71,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			exbR+0XYDFrfYlmLF4a+EKJGvsaVrAXIvjA6cnmAlZ4=
+			BwqRgyg+aJvQHfmSLzICI7AQjBM+jKosCi2L008pvHQ=
 			</data>
 		</dict>
 		<key>Headers/TMDone_iOSClientKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yoK8Hx5C7Kka9aicfyjAjPf6I+8EWUjLqKHfGU5YbmM=
+			pOUKiFUb8FNIlCoIx2RXLeNlrg4hBXbRU2MgQLCH9r0=
 			</data>
 		</dict>
 		<key>Headers/TMDone_iOSClientKit.h</key>
@@ -99,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P1+O40wRyyZ+O3ZvVszwUElcXr0181nvuTUd9QGntnA=
+			Q05rayk8lF3ilI+maEi6PX9irjiHiMRnZmTQ5iIJ+m8=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b05JYViWea6sPW0uBpuPRV1RX/K99dL/a3/QnVYVTew=
+			aUNgKuBUDKMD68bFAn17fJySjWiHI5EFgInLZe1E4uc=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -120,14 +132,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b05JYViWea6sPW0uBpuPRV1RX/K99dL/a3/QnVYVTew=
+			aUNgKuBUDKMD68bFAn17fJySjWiHI5EFgInLZe1E4uc=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mQYjfwiJ/ONi1ZK5Lli+52FS9IL+353eP7CKTrcTiSw=
+			qN0F73zaeCESCup+oLSI8lM1OLkU5sfWAOYpNEfh23E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -155,14 +167,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			am+QQ33pnvfXDAIlxCJlrk6tSl3RUqtvjQDKqMif1F0=
+			5MIb2QuunOgvZ20GP8gMhDKnRYVyWR9Mpkk8OpJfYoo=
 			</data>
 		</dict>
 		<key>StoreListTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ZLQKYhStf067BRdfb/Azm33QwX9KEuNhHFd/9MmBS8=
+			XxMzyxdUxG5FrO4YG19mP70JgIC8jW/ZsT7HjKkVC80=
+			</data>
+		</dict>
+		<key>StoreV1.storyboardc/IndividualRestaurantVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KpJBzNe5GL+uH1gUmUXEKpG9+p4XabixaSQyIL4HOWE=
+			</data>
+		</dict>
+		<key>StoreV1.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d+HlLCdXKkDv5RjSBwI+9UhjK0TjNAC2R6LaG4AUPv4=
+			</data>
+		</dict>
+		<key>StoreV1.storyboardc/g7d-bV-Mdj-view-bq8-Pl-LF7.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8gnraVyd7katk5TKtXAXdpAy7upU3b7BllZ3uBE4774=
 			</data>
 		</dict>
 	</dict>

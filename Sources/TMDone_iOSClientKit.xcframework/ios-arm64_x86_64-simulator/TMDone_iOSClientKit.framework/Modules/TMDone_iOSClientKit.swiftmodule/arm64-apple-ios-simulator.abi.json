@@ -43,6 +43,771 @@
       },
       {
         "kind": "Import",
+        "name": "AlamofireImage",
+        "printedName": "AlamofireImage",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IndividualRestaurantVC",
+        "printedName": "IndividualRestaurantVC",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)viewDidLoad",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC11viewDidLoadyyF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillAppear",
+            "printedName": "viewWillAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)viewWillAppear:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC14viewWillAppearyySbF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewWillAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidAppear",
+            "printedName": "viewDidAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)viewDidAppear:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC13viewDidAppearyySbF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewDidAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)viewWillDisappear:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC17viewWillDisappearyySbF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getInstance",
+            "printedName": "getInstance()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IndividualRestaurantVC",
+                "printedName": "TMDone_iOSClientKit.IndividualRestaurantVC",
+                "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19TMDone_iOSClientKit22IndividualRestaurantVCC11getInstanceACyFZ",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC11getInstanceACyFZ",
+            "moduleName": "TMDone_iOSClientKit",
+            "static": true,
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IndividualRestaurantVC",
+                "printedName": "TMDone_iOSClientKit.IndividualRestaurantVC",
+                "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)initWithNibName:bundle:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TMDone_iOSClientKit.IndividualRestaurantVC?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndividualRestaurantVC",
+                    "printedName": "TMDone_iOSClientKit.IndividualRestaurantVC",
+                    "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)initWithCoder:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "numberOfSections",
+            "printedName": "numberOfSections(in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)numberOfSectionsInTableView:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC16numberOfSections2inSiSo11UITableViewC_tF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "numberOfSectionsInTableView:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:numberOfRowsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)tableView:numberOfRowsInSection:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC9tableView_21numberOfRowsInSectionSiSo07UITableH0C_SitF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:numberOfRowsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:cellForRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UITableViewCell",
+                "printedName": "UIKit.UITableViewCell",
+                "usr": "c:objc(cs)UITableViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)tableView:cellForRowAtIndexPath:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC9tableView_12cellForRowAtSo07UITableH4CellCSo0mH0C_10Foundation9IndexPathVtF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:cellForRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:heightForHeaderInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)tableView:heightForHeaderInSection:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC9tableView_24heightForHeaderInSection12CoreGraphics7CGFloatVSo07UITableH0C_SitF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:heightForHeaderInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:titleForHeaderInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)tableView:titleForHeaderInSection:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC9tableView_23titleForHeaderInSectionSSSgSo07UITableH0C_SitF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:titleForHeaderInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:willDisplayHeaderView:forSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)tableView:willDisplayHeaderView:forSection:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC9tableView_017willDisplayHeaderH010forSectionySo07UITableH0C_So6UIViewCSitF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:willDisplayHeaderView:forSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:willDisplay:forRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableViewCell",
+                "printedName": "UIKit.UITableViewCell",
+                "usr": "c:objc(cs)UITableViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)tableView:willDisplayCell:forRowAtIndexPath:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC9tableView_11willDisplay8forRowAtySo07UITableH0C_So0nH4CellC10Foundation9IndexPathVtF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:willDisplayCell:forRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:numberOfItemsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)collectionView:numberOfItemsInSection:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC14collectionView_22numberOfItemsInSectionSiSo012UICollectionH0C_SitF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "collectionView:numberOfItemsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:cellForItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewCell",
+                "printedName": "UIKit.UICollectionViewCell",
+                "usr": "c:objc(cs)UICollectionViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)collectionView:cellForItemAtIndexPath:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC14collectionView_13cellForItemAtSo012UICollectionH4CellCSo0mH0C_10Foundation9IndexPathVtF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "collectionView:cellForItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:didSelectItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)collectionView:didSelectItemAtIndexPath:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC14collectionView_15didSelectItemAtySo012UICollectionH0C_10Foundation9IndexPathVtF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "collectionView:didSelectItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "scrollViewDidScroll",
+            "printedName": "scrollViewDidScroll(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIScrollView",
+                "printedName": "UIKit.UIScrollView",
+                "usr": "c:objc(cs)UIScrollView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC(im)scrollViewDidScroll:",
+            "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC19scrollViewDidScrollyySo08UIScrollH0CF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "scrollViewDidScroll:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@TMDone_iOSClientKit@objc(cs)IndividualRestaurantVC",
+        "mangledName": "$s19TMDone_iOSClientKit22IndividualRestaurantVCC",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -62,6 +827,16 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "TMDone_iOSClientKit",
         "declAttributes": [
@@ -369,6 +1144,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -396,9 +1181,155 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "TMDoneSDKDelegate",
+        "printedName": "TMDoneSDKDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "didExitFromSDK",
+            "printedName": "didExitFromSDK()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19TMDone_iOSClientKit0A11SDKDelegateP14didExitFromSDKyyF",
+            "mangledName": "$s19TMDone_iOSClientKit0A11SDKDelegateP14didExitFromSDKyyF",
+            "moduleName": "TMDone_iOSClientKit",
+            "genericSig": "<τ_0_0 where τ_0_0 : TMDone_iOSClientKit.TMDoneSDKDelegate>",
+            "sugared_genericSig": "<Self where Self : TMDone_iOSClientKit.TMDoneSDKDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19TMDone_iOSClientKit0A11SDKDelegateP",
+        "mangledName": "$s19TMDone_iOSClientKit0A11SDKDelegateP",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "SectorListingVC",
         "printedName": "SectorListingVC",
         "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TMDone_iOSClientKit.TMDoneSDKDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TMDoneSDKDelegate",
+                    "printedName": "TMDone_iOSClientKit.TMDoneSDKDelegate",
+                    "usr": "s:19TMDone_iOSClientKit0A11SDKDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvp",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvp",
+            "moduleName": "TMDone_iOSClientKit",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TMDone_iOSClientKit.TMDoneSDKDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TMDoneSDKDelegate",
+                        "printedName": "TMDone_iOSClientKit.TMDoneSDKDelegate",
+                        "usr": "s:19TMDone_iOSClientKit0A11SDKDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvg",
+                "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvg",
+                "moduleName": "TMDone_iOSClientKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TMDone_iOSClientKit.TMDoneSDKDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TMDoneSDKDelegate",
+                        "printedName": "TMDone_iOSClientKit.TMDoneSDKDelegate",
+                        "usr": "s:19TMDone_iOSClientKit0A11SDKDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvs",
+                "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvs",
+                "moduleName": "TMDone_iOSClientKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvM",
+                "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC8delegateAA0A11SDKDelegate_pSgvM",
+                "moduleName": "TMDone_iOSClientKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
           {
             "kind": "Function",
             "name": "viewDidLoad",
@@ -423,6 +1354,38 @@
               "Override",
               "AccessControl",
               "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillAppear",
+            "printedName": "viewWillAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)viewWillAppear:",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC14viewWillAppearyySbF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewWillAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -460,6 +1423,38 @@
           },
           {
             "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)viewWillDisappear:",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC17viewWillDisappearyySbF",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "getInstance",
             "printedName": "getInstance()",
             "children": [
@@ -484,71 +1479,26 @@
           },
           {
             "kind": "Function",
-            "name": "tableView",
-            "printedName": "tableView(_:numberOfRowsInSection:)",
+            "name": "setHeaderText",
+            "printedName": "setHeaderText(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
+                "name": "Void",
+                "printedName": "()"
               },
               {
                 "kind": "TypeNominal",
-                "name": "UITableView",
-                "printedName": "UIKit.UITableView",
-                "usr": "c:objc(cs)UITableView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)tableView:numberOfRowsInSection:",
-            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC9tableView_21numberOfRowsInSectionSiSo07UITableH0C_SitF",
+            "usr": "s:19TMDone_iOSClientKit15SectorListingVCC13setHeaderTextyySSF",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC13setHeaderTextyySSF",
             "moduleName": "TMDone_iOSClientKit",
-            "objc_name": "tableView:numberOfRowsInSection:",
             "declAttributes": [
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "tableView",
-            "printedName": "tableView(_:cellForRowAt:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UITableViewCell",
-                "printedName": "UIKit.UITableViewCell",
-                "usr": "c:objc(cs)UITableViewCell"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITableView",
-                "printedName": "UIKit.UITableView",
-                "usr": "c:objc(cs)UITableView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "IndexPath",
-                "printedName": "Foundation.IndexPath",
-                "usr": "s:10Foundation9IndexPathV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)tableView:cellForRowAtIndexPath:",
-            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC9tableView_12cellForRowAtSo07UITableH4CellCSo0mH0C_10Foundation9IndexPathVtF",
-            "moduleName": "TMDone_iOSClientKit",
-            "objc_name": "tableView:cellForRowAtIndexPath:",
-            "declAttributes": [
-              "ObjC",
               "Custom",
               "AccessControl"
             ],
@@ -649,6 +1599,119 @@
               "Required"
             ],
             "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:numberOfRowsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)tableView:numberOfRowsInSection:",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC9tableView_21numberOfRowsInSectionSiSo07UITableH0C_SitF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:numberOfRowsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:cellForRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UITableViewCell",
+                "printedName": "UIKit.UITableViewCell",
+                "usr": "c:objc(cs)UITableViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)tableView:cellForRowAtIndexPath:",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC9tableView_12cellForRowAtSo07UITableH4CellCSo0mH0C_10Foundation9IndexPathVtF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:cellForRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:didSelectRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@TMDone_iOSClientKit@objc(cs)SectorListingVC(im)tableView:didSelectRowAtIndexPath:",
+            "mangledName": "$s19TMDone_iOSClientKit15SectorListingVCC9tableView_14didSelectRowAtySo07UITableH0C_10Foundation9IndexPathVtF",
+            "moduleName": "TMDone_iOSClientKit",
+            "objc_name": "tableView:didSelectRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -748,13 +1811,6 @@
       },
       {
         "kind": "Import",
-        "name": "Alamofire",
-        "printedName": "Alamofire",
-        "declKind": "Import",
-        "moduleName": "TMDone_iOSClientKit"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -771,6 +1827,307 @@
         "moduleName": "TMDone_iOSClientKit",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AlamofireImage",
+        "printedName": "AlamofireImage",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MenuCategoryCell",
+        "printedName": "MenuCategoryCell",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "isSelected",
+            "printedName": "isSelected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell(py)selected",
+            "mangledName": "$s19TMDone_iOSClientKit16MenuCategoryCellC10isSelectedSbvp",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "objc_name": "selected",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell(im)isSelected",
+                "mangledName": "$s19TMDone_iOSClientKit16MenuCategoryCellC10isSelectedSbvg",
+                "moduleName": "TMDone_iOSClientKit",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "isSelected",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell(im)setSelected:",
+                "mangledName": "$s19TMDone_iOSClientKit16MenuCategoryCellC10isSelectedSbvs",
+                "moduleName": "TMDone_iOSClientKit",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "setSelected:",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MenuCategoryCell",
+                "printedName": "TMDone_iOSClientKit.MenuCategoryCell",
+                "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell(im)initWithFrame:",
+            "mangledName": "$s19TMDone_iOSClientKit16MenuCategoryCellC5frameACSo6CGRectV_tcfc",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TMDone_iOSClientKit.MenuCategoryCell?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MenuCategoryCell",
+                    "printedName": "TMDone_iOSClientKit.MenuCategoryCell",
+                    "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell(im)initWithCoder:",
+            "mangledName": "$s19TMDone_iOSClientKit16MenuCategoryCellC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "TMDone_iOSClientKit",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@TMDone_iOSClientKit@objc(cs)MenuCategoryCell",
+        "mangledName": "$s19TMDone_iOSClientKit16MenuCategoryCellC",
+        "moduleName": "TMDone_iOSClientKit",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UICollectionViewCell",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UICollectionViewCell",
+          "UIKit.UICollectionReusableView",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
         ]
       },
       {
@@ -920,919 +2277,2830 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
       "kind": "IntegerLiteral",
       "offset": 214,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFRequestInterceptorManager.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 9,
       "value": "\"primary\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "BooleanLiteral",
       "offset": 729,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "StringLiteral",
       "offset": 2501,
       "length": 9,
       "value": "\"primary\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/ExtensionHelper.swift",
       "kind": "BooleanLiteral",
       "offset": 2592,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFNetworkLoggerManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/SectorListing\/Store\/StoreV1\/RestaurantView\/IndividualRestaurantVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1733,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/SectorListing\/Store\/StoreV1\/RestaurantView\/IndividualRestaurantVM.swift",
+      "kind": "StringLiteral",
+      "offset": 187,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/SectorListing\/Store\/StoreV1\/RestaurantView\/IndividualRestaurantVM.swift",
+      "kind": "Array",
+      "offset": 267,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/SectorListing\/Store\/StoreV1\/RestaurantView\/IndividualRestaurantVM.swift",
+      "kind": "Array",
+      "offset": 311,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFNetworkLoggerManager.swift",
       "kind": "StringLiteral",
       "offset": 221,
       "length": 24,
       "value": "\"codezync.networklogger\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/Reusable\/StoreListTVCell\/StoreListTVCell.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 401,
+      "length": 7,
+      "value": "\"Store\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 7,
+      "value": "\"Menus\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 490,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 527,
+      "length": 12,
+      "value": "\"Attributes\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 561,
+      "length": 7,
+      "value": "\"Items\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 401,
+      "length": 7,
+      "value": "\"Store\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 7,
+      "value": "\"Menus\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 490,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 527,
+      "length": 12,
+      "value": "\"Attributes\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 561,
+      "length": 7,
+      "value": "\"Items\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 765,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 790,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 818,
+      "length": 7,
+      "value": "\"Index\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 846,
+      "length": 6,
+      "value": "\"Code\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 879,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 765,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 790,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 818,
+      "length": 7,
+      "value": "\"Index\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 846,
+      "length": 6,
+      "value": "\"Code\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 879,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1703,
+      "length": 7,
+      "value": "\"Menus\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1741,
+      "length": 16,
+      "value": "\"MenuCategories\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1782,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1819,
+      "length": 12,
+      "value": "\"Attributes\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1862,
+      "length": 16,
+      "value": "\"Customizations\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1903,
+      "length": 10,
+      "value": "\"PrepTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1941,
+      "length": 13,
+      "value": "\"Description\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1988,
+      "length": 19,
+      "value": "\"ArabicDescription\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2034,
+      "length": 12,
+      "value": "\"IsFavorite\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2071,
+      "length": 10,
+      "value": "\"Revision\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2115,
+      "length": 19,
+      "value": "\"HasCustomizations\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2160,
+      "length": 11,
+      "value": "\"OrderType\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2196,
+      "length": 10,
+      "value": "\"ImageUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2225,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2250,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2283,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2315,
+      "length": 5,
+      "value": "\"Sku\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2347,
+      "length": 12,
+      "value": "\"IsFeatured\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2381,
+      "length": 7,
+      "value": "\"Price\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2411,
+      "length": 8,
+      "value": "\"Rating\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2446,
+      "length": 12,
+      "value": "\"RatedCount\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2484,
+      "length": 11,
+      "value": "\"IsInStock\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2523,
+      "length": 13,
+      "value": "\"IsPublished\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2559,
+      "length": 8,
+      "value": "\"Status\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2611,
+      "length": 29,
+      "value": "\"PlanToUnavailabilityMinutes\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2684,
+      "length": 29,
+      "value": "\"RemainUnavailabilitySeconds\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2749,
+      "length": 21,
+      "value": "\"IsEnablePickupPrice\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1703,
+      "length": 7,
+      "value": "\"Menus\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1741,
+      "length": 16,
+      "value": "\"MenuCategories\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1782,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1819,
+      "length": 12,
+      "value": "\"Attributes\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1862,
+      "length": 16,
+      "value": "\"Customizations\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1903,
+      "length": 10,
+      "value": "\"PrepTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1941,
+      "length": 13,
+      "value": "\"Description\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1988,
+      "length": 19,
+      "value": "\"ArabicDescription\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2034,
+      "length": 12,
+      "value": "\"IsFavorite\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2071,
+      "length": 10,
+      "value": "\"Revision\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2115,
+      "length": 19,
+      "value": "\"HasCustomizations\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2160,
+      "length": 11,
+      "value": "\"OrderType\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2196,
+      "length": 10,
+      "value": "\"ImageUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2225,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2250,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2283,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2315,
+      "length": 5,
+      "value": "\"Sku\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2347,
+      "length": 12,
+      "value": "\"IsFeatured\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2381,
+      "length": 7,
+      "value": "\"Price\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2411,
+      "length": 8,
+      "value": "\"Rating\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2446,
+      "length": 12,
+      "value": "\"RatedCount\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2484,
+      "length": 11,
+      "value": "\"IsInStock\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2523,
+      "length": 13,
+      "value": "\"IsPublished\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2559,
+      "length": 8,
+      "value": "\"Status\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2611,
+      "length": 29,
+      "value": "\"PlanToUnavailabilityMinutes\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2684,
+      "length": 29,
+      "value": "\"RemainUnavailabilitySeconds\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2749,
+      "length": 21,
+      "value": "\"IsEnablePickupPrice\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3097,
+      "length": 11,
+      "value": "\"UnitPrice\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3134,
+      "length": 11,
+      "value": "\"SalePrice\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3175,
+      "length": 15,
+      "value": "\"SaleStartDate\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3218,
+      "length": 13,
+      "value": "\"SaleEndDate\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3261,
+      "length": 15,
+      "value": "\"IsVatExempted\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3296,
+      "length": 5,
+      "value": "\"Vat\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3323,
+      "length": 7,
+      "value": "\"Price\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3359,
+      "length": 14,
+      "value": "\"IsItemOnSale\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3408,
+      "length": 20,
+      "value": "\"DiscountPercentage\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3097,
+      "length": 11,
+      "value": "\"UnitPrice\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3134,
+      "length": 11,
+      "value": "\"SalePrice\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3175,
+      "length": 15,
+      "value": "\"SaleStartDate\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3218,
+      "length": 13,
+      "value": "\"SaleEndDate\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3261,
+      "length": 15,
+      "value": "\"IsVatExempted\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3296,
+      "length": 5,
+      "value": "\"Vat\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3323,
+      "length": 7,
+      "value": "\"Price\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3359,
+      "length": 14,
+      "value": "\"IsItemOnSale\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3408,
+      "length": 20,
+      "value": "\"DiscountPercentage\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3606,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3631,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3664,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3697,
+      "length": 6,
+      "value": "\"Code\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3729,
+      "length": 11,
+      "value": "\"IsCurrent\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3766,
+      "length": 11,
+      "value": "\"IsDefault\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3606,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3631,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3664,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3697,
+      "length": 6,
+      "value": "\"Code\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3729,
+      "length": 11,
+      "value": "\"IsCurrent\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3766,
+      "length": 11,
+      "value": "\"IsDefault\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4146,
+      "length": 12,
+      "value": "\"Identifier\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4179,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4212,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4248,
+      "length": 10,
+      "value": "\"Sequence\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4292,
+      "length": 6,
+      "value": "\"Type\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4325,
+      "length": 12,
+      "value": "\"IsRequired\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4359,
+      "length": 7,
+      "value": "\"Range\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4401,
+      "length": 7,
+      "value": "\"Items\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4146,
+      "length": 12,
+      "value": "\"Identifier\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4179,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4212,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4248,
+      "length": 10,
+      "value": "\"Sequence\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4292,
+      "length": 6,
+      "value": "\"Type\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4325,
+      "length": 12,
+      "value": "\"IsRequired\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4359,
+      "length": 7,
+      "value": "\"Range\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4401,
+      "length": 7,
+      "value": "\"Items\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4556,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4627,
+      "length": 9,
+      "value": "\"Minimum\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4660,
+      "length": 9,
+      "value": "\"Maximum\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4696,
+      "length": 12,
+      "value": "\"MaxPerItem\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4627,
+      "length": 9,
+      "value": "\"Minimum\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4660,
+      "length": 9,
+      "value": "\"Maximum\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4696,
+      "length": 12,
+      "value": "\"MaxPerItem\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4967,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5035,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5068,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5105,
+      "length": 10,
+      "value": "\"ItemName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5146,
+      "length": 16,
+      "value": "\"ItemNameArabic\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5184,
+      "length": 7,
+      "value": "\"Price\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5216,
+      "length": 10,
+      "value": "\"Quantity\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5252,
+      "length": 11,
+      "value": "\"ItemTotal\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5035,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5068,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5105,
+      "length": 10,
+      "value": "\"ItemName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5146,
+      "length": 16,
+      "value": "\"ItemNameArabic\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5184,
+      "length": 7,
+      "value": "\"Price\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5216,
+      "length": 10,
+      "value": "\"Quantity\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/MenuItemFindModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5252,
+      "length": 11,
+      "value": "\"ItemTotal\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/Reusable\/StoreListTVCell\/StoreListTVCell.swift",
       "kind": "StringLiteral",
       "offset": 1267,
       "length": 19,
       "value": "\"Default_Menu_Item\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1305,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1330,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1364,
+      "length": 13,
+      "value": "\"Description\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1404,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1450,
+      "length": 19,
+      "value": "\"ArabicDescription\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1493,
+      "length": 9,
+      "value": "\"LogoUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1527,
+      "length": 10,
+      "value": "\"CoverUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1561,
+      "length": 9,
+      "value": "\"Contact\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1597,
+      "length": 12,
+      "value": "\"SectorCode\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1636,
+      "length": 12,
+      "value": "\"SectorName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1673,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1708,
+      "length": 10,
+      "value": "\"SectorId\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1741,
+      "length": 8,
+      "value": "\"Rating\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1776,
+      "length": 12,
+      "value": "\"RatedCount\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1813,
+      "length": 10,
+      "value": "\"IsOnline\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1846,
+      "length": 8,
+      "value": "\"IsBusy\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1885,
+      "length": 16,
+      "value": "\"PaymentMethods\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1929,
+      "length": 13,
+      "value": "\"DeliveryFee\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1974,
+      "length": 17,
+      "value": "\"AveragePrepTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2020,
+      "length": 14,
+      "value": "\"DeliveryTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2066,
+      "length": 17,
+      "value": "\"MaxDeliveryTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2118,
+      "length": 20,
+      "value": "\"OperationalDetails\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2159,
+      "length": 6,
+      "value": "\"Area\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2188,
+      "length": 8,
+      "value": "\"AreaId\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2237,
+      "length": 26,
+      "value": "\"MarketPlaceMinOrderValue\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2293,
+      "length": 15,
+      "value": "\"IsMarketPlace\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2335,
+      "length": 12,
+      "value": "\"IsSchedule\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2379,
+      "length": 17,
+      "value": "\"MinScheduleTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2426,
+      "length": 15,
+      "value": "\"MinOrderValue\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2469,
+      "length": 13,
+      "value": "\"IsFavourite\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2510,
+      "length": 13,
+      "value": "\"IsPlusStore\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2552,
+      "length": 14,
+      "value": "\"SectorLayout\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2598,
+      "length": 17,
+      "value": "\"IsCustomization\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2652,
+      "length": 22,
+      "value": "\"IsAllowScheduleOrder\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2706,
+      "length": 17,
+      "value": "\"IsDisableCredit\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2755,
+      "length": 17,
+      "value": "\"IsAllowTracking\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2802,
+      "length": 15,
+      "value": "\"IsAllowRating\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2850,
+      "length": 18,
+      "value": "\"IsAllowPromoCode\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2893,
+      "length": 10,
+      "value": "\"Location\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2928,
+      "length": 10,
+      "value": "\"Distance\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2964,
+      "length": 11,
+      "value": "\"OrderType\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3003,
+      "length": 13,
+      "value": "\"StoreLayout\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3051,
+      "length": 20,
+      "value": "\"TargetedOfferCount\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3097,
+      "length": 11,
+      "value": "\"UserOffer\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1305,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1330,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1364,
+      "length": 13,
+      "value": "\"Description\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1404,
+      "length": 12,
+      "value": "\"ArabicName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1450,
+      "length": 19,
+      "value": "\"ArabicDescription\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1493,
+      "length": 9,
+      "value": "\"LogoUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1527,
+      "length": 10,
+      "value": "\"CoverUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1561,
+      "length": 9,
+      "value": "\"Contact\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1597,
+      "length": 12,
+      "value": "\"SectorCode\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1636,
+      "length": 12,
+      "value": "\"SectorName\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1673,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1708,
+      "length": 10,
+      "value": "\"SectorId\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1741,
+      "length": 8,
+      "value": "\"Rating\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1776,
+      "length": 12,
+      "value": "\"RatedCount\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1813,
+      "length": 10,
+      "value": "\"IsOnline\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1846,
+      "length": 8,
+      "value": "\"IsBusy\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1885,
+      "length": 16,
+      "value": "\"PaymentMethods\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1929,
+      "length": 13,
+      "value": "\"DeliveryFee\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1974,
+      "length": 17,
+      "value": "\"AveragePrepTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2020,
+      "length": 14,
+      "value": "\"DeliveryTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2066,
+      "length": 17,
+      "value": "\"MaxDeliveryTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2118,
+      "length": 20,
+      "value": "\"OperationalDetails\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2159,
+      "length": 6,
+      "value": "\"Area\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2188,
+      "length": 8,
+      "value": "\"AreaId\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2237,
+      "length": 26,
+      "value": "\"MarketPlaceMinOrderValue\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2293,
+      "length": 15,
+      "value": "\"IsMarketPlace\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2335,
+      "length": 12,
+      "value": "\"IsSchedule\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2379,
+      "length": 17,
+      "value": "\"MinScheduleTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2426,
+      "length": 15,
+      "value": "\"MinOrderValue\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2469,
+      "length": 13,
+      "value": "\"IsFavourite\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2510,
+      "length": 13,
+      "value": "\"IsPlusStore\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2552,
+      "length": 14,
+      "value": "\"SectorLayout\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2598,
+      "length": 17,
+      "value": "\"IsCustomization\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2652,
+      "length": 22,
+      "value": "\"IsAllowScheduleOrder\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2706,
+      "length": 17,
+      "value": "\"IsDisableCredit\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2755,
+      "length": 17,
+      "value": "\"IsAllowTracking\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2802,
+      "length": 15,
+      "value": "\"IsAllowRating\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2850,
+      "length": 18,
+      "value": "\"IsAllowPromoCode\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2893,
+      "length": 10,
+      "value": "\"Location\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2928,
+      "length": 10,
+      "value": "\"Distance\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2964,
+      "length": 11,
+      "value": "\"OrderType\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3003,
+      "length": 13,
+      "value": "\"StoreLayout\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3051,
+      "length": 20,
+      "value": "\"TargetedOfferCount\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3097,
+      "length": 11,
+      "value": "\"UserOffer\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3297,
+      "length": 14,
+      "value": "\"LocationText\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3333,
+      "length": 7,
+      "value": "\"Point\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3364,
+      "length": 9,
+      "value": "\"Bearing\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3297,
+      "length": 14,
+      "value": "\"LocationText\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3333,
+      "length": 7,
+      "value": "\"Point\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3364,
+      "length": 9,
+      "value": "\"Bearing\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3599,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3624,
+      "length": 6,
+      "value": "\"Code\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3658,
+      "length": 13,
+      "value": "\"Description\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3705,
+      "length": 19,
+      "value": "\"ArabicDescription\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3749,
+      "length": 10,
+      "value": "\"ImageUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3784,
+      "length": 10,
+      "value": "\"IsActive\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3820,
+      "length": 11,
+      "value": "\"IsDeleted\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3599,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3624,
+      "length": 6,
+      "value": "\"Code\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3658,
+      "length": 13,
+      "value": "\"Description\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3705,
+      "length": 19,
+      "value": "\"ArabicDescription\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3749,
+      "length": 10,
+      "value": "\"ImageUrl\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3784,
+      "length": 10,
+      "value": "\"IsActive\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3820,
+      "length": 11,
+      "value": "\"IsDeleted\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4050,
+      "length": 22,
+      "value": "\"OperationalDayArabic\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4103,
+      "length": 16,
+      "value": "\"OperationalDay\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4145,
+      "length": 11,
+      "value": "\"StartTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4180,
+      "length": 9,
+      "value": "\"EndTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4050,
+      "length": 22,
+      "value": "\"OperationalDayArabic\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4103,
+      "length": 16,
+      "value": "\"OperationalDay\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4145,
+      "length": 11,
+      "value": "\"StartTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/StoreInfoModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4180,
+      "length": 9,
+      "value": "\"EndTime\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 12,
-      "value": "\"2023\/04\/16\""
+      "value": "\"2025\/01\/01\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
       "kind": "Dictionary",
-      "offset": 1092,
+      "offset": 1085,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/AFManager.swift",
       "kind": "Dictionary",
-      "offset": 1125,
+      "offset": 1118,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/LoadingManager.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/VC+VM\/SectorListing\/SectorListingView\/SectorListingVC.swift",
+      "kind": "StringLiteral",
+      "offset": 417,
+      "length": 12,
+      "value": "\"TMDone SDK\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/LoadingManager.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 11,
       "value": "\"LoadingVC\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "IntegerLiteral",
       "offset": 199,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "IntegerLiteral",
       "offset": 249,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/CardView.swift",
       "kind": "FloatLiteral",
       "offset": 409,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 666,
+      "length": 16,
+      "value": "23.5885838967884"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 695,
+      "length": 18,
+      "value": "58.357368055837085"
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 413,
+      "length": 8,
+      "value": "\"PICKUP\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 10,
+      "value": "\"DELIVERY\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 469,
+      "length": 6,
+      "value": "\"BOTH\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 413,
+      "length": 8,
+      "value": "\"PICKUP\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 10,
+      "value": "\"DELIVERY\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Helper\/Enums.swift",
+      "kind": "StringLiteral",
+      "offset": 469,
+      "length": 6,
+      "value": "\"BOTH\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"TotalItemCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 11,
       "value": "\"PageCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 12,
       "value": "\"PageNumber\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 490,
       "length": 10,
       "value": "\"PageSize\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 526,
       "length": 7,
       "value": "\"Items\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"TotalItemCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 11,
       "value": "\"PageCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 12,
       "value": "\"PageNumber\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 490,
       "length": 10,
       "value": "\"PageSize\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
       "offset": 526,
       "length": 7,
       "value": "\"Items\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2143,
+      "offset": 2170,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2168,
+      "offset": 2195,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2199,
+      "offset": 2226,
       "length": 10,
       "value": "\"CoverUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 2264,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2274,
+      "offset": 2301,
       "length": 9,
       "value": "\"LogoUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2306,
+      "offset": 2333,
       "length": 8,
       "value": "\"Rating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2341,
+      "offset": 2368,
       "length": 12,
       "value": "\"RatedCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2385,
+      "offset": 2412,
       "length": 17,
       "value": "\"AveragePrepTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2431,
+      "offset": 2458,
       "length": 14,
       "value": "\"DeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2477,
+      "offset": 2504,
       "length": 17,
       "value": "\"MaxDeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2521,
+      "offset": 2548,
       "length": 12,
       "value": "\"Attributes\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2559,
+      "offset": 2586,
       "length": 11,
       "value": "\"OrderType\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2597,
+      "offset": 2624,
       "length": 12,
       "value": "\"SectorCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2663,
       "length": 12,
       "value": "\"SectorName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2673,
+      "offset": 2700,
       "length": 10,
       "value": "\"SectorId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2707,
+      "offset": 2734,
       "length": 9,
       "value": "\"Contact\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2743,
+      "offset": 2768,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "kind": "StringLiteral",
+      "offset": 2805,
       "length": 12,
       "value": "\"ArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2789,
+      "offset": 2851,
       "length": 19,
       "value": "\"ArabicDescription\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2833,
+      "offset": 2895,
       "length": 10,
       "value": "\"IsOnline\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2870,
+      "offset": 2932,
       "length": 12,
       "value": "\"IsFeatured\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2910,
+      "offset": 2972,
       "length": 13,
       "value": "\"IsFavourite\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2951,
+      "offset": 3013,
       "length": 13,
       "value": "\"DeliveryFee\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2994,
+      "offset": 3056,
       "length": 15,
       "value": "\"IsAllowPickup\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3030,
+      "offset": 3092,
       "length": 6,
       "value": "\"Area\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3064,
+      "offset": 3126,
       "length": 13,
       "value": "\"IsPlusStore\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3100,
+      "offset": 3162,
       "length": 8,
       "value": "\"AreaId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3135,
+      "offset": 3197,
       "length": 12,
       "value": "\"IsSchedule\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3179,
+      "offset": 3241,
       "length": 17,
       "value": "\"MinScheduleTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3224,
+      "offset": 3286,
       "length": 13,
       "value": "\"EnglishName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3268,
+      "offset": 3330,
       "length": 16,
       "value": "\"PaymentMethods\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3319,
+      "offset": 3381,
       "length": 20,
       "value": "\"OperationalDetails\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3369,
+      "offset": 3431,
       "length": 15,
       "value": "\"IsMarketPlace\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3425,
+      "offset": 3487,
       "length": 26,
       "value": "\"MarketPlaceMinOrderValue\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3476,
+      "offset": 3538,
       "length": 10,
       "value": "\"Distance\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3509,
+      "offset": 3571,
       "length": 8,
       "value": "\"IsBusy\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3544,
+      "offset": 3606,
       "length": 12,
       "value": "\"IsStoreNew\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3582,
+      "offset": 3644,
       "length": 11,
       "value": "\"OfferName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3625,
+      "offset": 3687,
       "length": 17,
       "value": "\"OfferArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3671,
+      "offset": 3733,
       "length": 14,
       "value": "\"SectorLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3722,
+      "offset": 3784,
       "length": 22,
       "value": "\"IsAllowScheduleOrder\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3776,
+      "offset": 3838,
       "length": 17,
       "value": "\"IsDisableCredit\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3825,
+      "offset": 3887,
       "length": 17,
       "value": "\"IsAllowTracking\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3875,
+      "offset": 3937,
       "length": 18,
       "value": "\"IsAllowPromoCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3923,
+      "offset": 3985,
       "length": 15,
       "value": "\"IsAllowRating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3968,
+      "offset": 4030,
       "length": 10,
       "value": "\"Location\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4006,
+      "offset": 4068,
       "length": 13,
       "value": "\"StoreLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4058,
+      "offset": 4120,
       "length": 24,
       "value": "\"IsTargetedOfferApplied\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4117,
+      "offset": 4179,
       "length": 20,
       "value": "\"TargetedOfferCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4163,
+      "offset": 4225,
       "length": 11,
       "value": "\"UserOffer\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2143,
+      "offset": 2170,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2168,
+      "offset": 2195,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2199,
+      "offset": 2226,
       "length": 10,
       "value": "\"CoverUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 2264,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2274,
+      "offset": 2301,
       "length": 9,
       "value": "\"LogoUrl\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2306,
+      "offset": 2333,
       "length": 8,
       "value": "\"Rating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2341,
+      "offset": 2368,
       "length": 12,
       "value": "\"RatedCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2385,
+      "offset": 2412,
       "length": 17,
       "value": "\"AveragePrepTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2431,
+      "offset": 2458,
       "length": 14,
       "value": "\"DeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2477,
+      "offset": 2504,
       "length": 17,
       "value": "\"MaxDeliveryTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2521,
+      "offset": 2548,
       "length": 12,
       "value": "\"Attributes\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2559,
+      "offset": 2586,
       "length": 11,
       "value": "\"OrderType\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2597,
+      "offset": 2624,
       "length": 12,
       "value": "\"SectorCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2663,
       "length": 12,
       "value": "\"SectorName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2673,
+      "offset": 2700,
       "length": 10,
       "value": "\"SectorId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2707,
+      "offset": 2734,
       "length": 9,
       "value": "\"Contact\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2743,
+      "offset": 2768,
+      "length": 10,
+      "value": "\"Cuisines\""
+    },
+    {
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "kind": "StringLiteral",
+      "offset": 2805,
       "length": 12,
       "value": "\"ArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2789,
+      "offset": 2851,
       "length": 19,
       "value": "\"ArabicDescription\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2833,
+      "offset": 2895,
       "length": 10,
       "value": "\"IsOnline\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2870,
+      "offset": 2932,
       "length": 12,
       "value": "\"IsFeatured\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2910,
+      "offset": 2972,
       "length": 13,
       "value": "\"IsFavourite\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2951,
+      "offset": 3013,
       "length": 13,
       "value": "\"DeliveryFee\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 2994,
+      "offset": 3056,
       "length": 15,
       "value": "\"IsAllowPickup\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3030,
+      "offset": 3092,
       "length": 6,
       "value": "\"Area\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3064,
+      "offset": 3126,
       "length": 13,
       "value": "\"IsPlusStore\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3100,
+      "offset": 3162,
       "length": 8,
       "value": "\"AreaId\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3135,
+      "offset": 3197,
       "length": 12,
       "value": "\"IsSchedule\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3179,
+      "offset": 3241,
       "length": 17,
       "value": "\"MinScheduleTime\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3224,
+      "offset": 3286,
       "length": 13,
       "value": "\"EnglishName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3268,
+      "offset": 3330,
       "length": 16,
       "value": "\"PaymentMethods\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3319,
+      "offset": 3381,
       "length": 20,
       "value": "\"OperationalDetails\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3369,
+      "offset": 3431,
       "length": 15,
       "value": "\"IsMarketPlace\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3425,
+      "offset": 3487,
       "length": 26,
       "value": "\"MarketPlaceMinOrderValue\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3476,
+      "offset": 3538,
       "length": 10,
       "value": "\"Distance\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3509,
+      "offset": 3571,
       "length": 8,
       "value": "\"IsBusy\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3544,
+      "offset": 3606,
       "length": 12,
       "value": "\"IsStoreNew\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3582,
+      "offset": 3644,
       "length": 11,
       "value": "\"OfferName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3625,
+      "offset": 3687,
       "length": 17,
       "value": "\"OfferArabicName\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3671,
+      "offset": 3733,
       "length": 14,
       "value": "\"SectorLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3722,
+      "offset": 3784,
       "length": 22,
       "value": "\"IsAllowScheduleOrder\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3776,
+      "offset": 3838,
       "length": 17,
       "value": "\"IsDisableCredit\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3825,
+      "offset": 3887,
       "length": 17,
       "value": "\"IsAllowTracking\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3875,
+      "offset": 3937,
       "length": 18,
       "value": "\"IsAllowPromoCode\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3923,
+      "offset": 3985,
       "length": 15,
       "value": "\"IsAllowRating\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 3968,
+      "offset": 4030,
       "length": 10,
       "value": "\"Location\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4006,
+      "offset": 4068,
       "length": 13,
       "value": "\"StoreLayout\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4058,
+      "offset": 4120,
       "length": 24,
       "value": "\"IsTargetedOfferApplied\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4117,
+      "offset": 4179,
       "length": 20,
       "value": "\"TargetedOfferCount\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4163,
+      "offset": 4225,
       "length": 11,
       "value": "\"UserOffer\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4329,
+      "offset": 4391,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4354,
+      "offset": 4416,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4388,
+      "offset": 4450,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4329,
+      "offset": 4391,
       "length": 4,
       "value": "\"Id\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4354,
+      "offset": 4416,
       "length": 6,
       "value": "\"Name\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "StringLiteral",
-      "offset": 4388,
+      "offset": 4450,
       "length": 13,
       "value": "\"Description\""
     },
     {
-      "filePath": "\/Users\/kasunsandeep\/Documents\/workspace\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
+      "filePath": "\/Users\/kokila\/Projects\/TMDone_iOSClientKit\/TMDone_iOSClientKit\/Model\/Stores.swift",
       "kind": "BooleanLiteral",
-      "offset": 4535,
+      "offset": 4597,
       "length": 5,
       "value": "false"
     }
