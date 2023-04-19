@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/TMDone_iOSClientKit-Swift.h</key>
 		<data>
-		6raRXnWNfovaqUbmCPDl2Plqo+k=
+		orPAb7aDib1g2QNAoWBUV3TbiVw=
 		</data>
 		<key>Headers/TMDone_iOSClientKit.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		H3mQtMLgTE4qWXsYb8qFzjHV758=
+		yb1xVsiyXt6RtjUyGSoyLtenI7s=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		PnUk1mbM0jFpWEt14GOJoiWAQqo=
+		bl34kMv3kkerQ3WyadR5w9HUEs4=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		PnUk1mbM0jFpWEt14GOJoiWAQqo=
+		bl34kMv3kkerQ3WyadR5w9HUEs4=
 		</data>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		FoYSZPUdNAB1U7Wea2H7UjbybxM=
+		1s9ETw/5UzunxnX+6J5Bq0Nh2mE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>SectorListing.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		/gevpTdDrDsk8xaAkTeCQwBF8Ss=
+		6nfVQmny4+29SxUJUbxw0q/+zL4=
 		</data>
 		<key>StoreListTVCell.nib</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>StoreV1.storyboardc/g7d-bV-Mdj-view-bq8-Pl-LF7.nib</key>
 		<data>
-		g0v8TgnqDVeBVAeYzdUHo5xsSlo=
+		dQG9pf7Ik2Z64k1l5QPMIdu/9go=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -90,7 +90,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pOUKiFUb8FNIlCoIx2RXLeNlrg4hBXbRU2MgQLCH9r0=
+			7TQqfOaQIwg3tBOcXqdcM+CXOl/WlUDIDwFXsylaMKA=
 			</data>
 		</dict>
 		<key>Headers/TMDone_iOSClientKit.h</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q05rayk8lF3ilI+maEi6PX9irjiHiMRnZmTQ5iIJ+m8=
+			KeUXeIbzcREwUlEIvLYXHNKs2hkhd0mX6UtxdIoKry4=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aUNgKuBUDKMD68bFAn17fJySjWiHI5EFgInLZe1E4uc=
+			12FmmQOKdaFZRC1BqZX5SXysJw2VRl6LuUEE784TRYQ=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -132,14 +132,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aUNgKuBUDKMD68bFAn17fJySjWiHI5EFgInLZe1E4uc=
+			12FmmQOKdaFZRC1BqZX5SXysJw2VRl6LuUEE784TRYQ=
 			</data>
 		</dict>
 		<key>Modules/TMDone_iOSClientKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qN0F73zaeCESCup+oLSI8lM1OLkU5sfWAOYpNEfh23E=
+			6twoyzO1GxzJprF1wfAgpCkcaHtb9YPhVGGXPq2wXgo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -167,7 +167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5MIb2QuunOgvZ20GP8gMhDKnRYVyWR9Mpkk8OpJfYoo=
+			W/+7Zz+AtfzClhRSCjrchBRpkI0aXKRlG4UsYM1syns=
 			</data>
 		</dict>
 		<key>StoreListTVCell.nib</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8gnraVyd7katk5TKtXAXdpAy7upU3b7BllZ3uBE4774=
+			JIpkPK7oKYp6yKY5NEmBrzWFzAqJjSm+86ya+XCF4sc=
 			</data>
 		</dict>
 	</dict>

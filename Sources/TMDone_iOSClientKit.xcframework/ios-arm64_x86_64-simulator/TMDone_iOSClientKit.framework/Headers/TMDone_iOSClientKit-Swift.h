@@ -256,8 +256,16 @@ using UInt = size_t;
 @class NSBundle;
 @class NSCoder;
 
+SWIFT_CLASS("_TtC19TMDone_iOSClientKit6BaseVC")
+@interface BaseVC : UIViewController
+- (void)viewWillAppear:(BOOL)animated;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC19TMDone_iOSClientKit22IndividualRestaurantVC")
-@interface IndividualRestaurantVC : UIViewController
+@interface IndividualRestaurantVC : BaseVC
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidAppear:(BOOL)animated;
@@ -306,7 +314,7 @@ SWIFT_CLASS("_TtC19TMDone_iOSClientKit16MenuCategoryCell")
 
 
 SWIFT_CLASS("_TtC19TMDone_iOSClientKit15SectorListingVC")
-@interface SectorListingVC : UIViewController
+@interface SectorListingVC : BaseVC
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidAppear:(BOOL)animated;
@@ -600,8 +608,16 @@ using UInt = size_t;
 @class NSBundle;
 @class NSCoder;
 
+SWIFT_CLASS("_TtC19TMDone_iOSClientKit6BaseVC")
+@interface BaseVC : UIViewController
+- (void)viewWillAppear:(BOOL)animated;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC19TMDone_iOSClientKit22IndividualRestaurantVC")
-@interface IndividualRestaurantVC : UIViewController
+@interface IndividualRestaurantVC : BaseVC
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidAppear:(BOOL)animated;
@@ -650,7 +666,7 @@ SWIFT_CLASS("_TtC19TMDone_iOSClientKit16MenuCategoryCell")
 
 
 SWIFT_CLASS("_TtC19TMDone_iOSClientKit15SectorListingVC")
-@interface SectorListingVC : UIViewController
+@interface SectorListingVC : BaseVC
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidAppear:(BOOL)animated;

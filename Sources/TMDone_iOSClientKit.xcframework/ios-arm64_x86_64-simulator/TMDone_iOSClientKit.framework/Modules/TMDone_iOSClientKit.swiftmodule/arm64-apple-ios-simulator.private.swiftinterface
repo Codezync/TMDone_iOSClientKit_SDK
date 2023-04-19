@@ -11,10 +11,16 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class BaseVC : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
 extension UIKit.UIImageView {
   @_Concurrency.MainActor(unsafe) public func roundCorners(_ corners: UIKit.UIRectCorner, radius: CoreFoundation.CGFloat)
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class IndividualRestaurantVC : UIKit.UIViewController {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class IndividualRestaurantVC : TMDone_iOSClientKit.BaseVC {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
@@ -53,7 +59,7 @@ extension TMDone_iOSClientKit.IndividualRestaurantVC : UIKit.UIScrollViewDelegat
 public protocol TMDoneSDKDelegate {
   func didExitFromSDK()
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class SectorListingVC : UIKit.UIViewController {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class SectorListingVC : TMDone_iOSClientKit.BaseVC {
   @_Concurrency.MainActor(unsafe) public var delegate: TMDone_iOSClientKit.TMDoneSDKDelegate?
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
